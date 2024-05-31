@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1022427872034",
+    "project_id": "tareas-67353",
+    "storage_bucket": "tareas-67353.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1022427872034:android:134608311f89258395c37b",
+        "android_client_info": {
+          "package_name": "com.example.prueba_tecnica"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDyObOWfI7wzKairGiC69TP9F7pPoQ6ow"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
